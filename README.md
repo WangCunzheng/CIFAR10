@@ -18,7 +18,7 @@ Dropout、 MaxPool2d、 Linear以及 Flatten 层组成的简单网络。
 对网络 *ShouZheng* 进行 100 轮训练，在测试集上的 loss 与 accuracy
 入下图所示
 
-<img src="figs/test_loss.png" width="500px"> <img src="figs/test_accuracy.png" width="500px">
+<img src="figs/test_loss.png"> <img src="figs/test_accuracy.png">
 
 可以看出模型在第 75 个 epoch 时，loss达到最低，accuracy达到最高(69%)。
 
