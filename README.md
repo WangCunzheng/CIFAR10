@@ -5,7 +5,7 @@
 CIFAR-10 是一个更接近普适物体的彩色图像数据集。该数据集是由 Hinton 的学生Alex Krizhevsky
 和 Ilya Sutskever 整理的一个用于识别普适物体的小型数据集。数据集一共包含 10 个类别的 RGB 彩色图片。
 
-<img src="figs/cifar10.png" width="700px">
+<img src="figs/cifar10.png" width="500px">
 
 每个图片的尺寸为 32 × 32 ，每个类别有 6000 个图像，数据集中一共有 50000 张训练图片和 10000 张测试图片。
 
