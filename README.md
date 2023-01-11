@@ -30,7 +30,7 @@ Dropout、 MaxPool2d、 Linear以及 Flatten 层组成的简单网络。
 可视化。
 
 ## Prediction
-进行预测使用 `predict.py` 即可，其中各参数代表如下:
+进行预测使用 `demo.py` 即可，其中各参数代表如下:
 
 * `i`  str, 预测的图片路径
 * `m`  str, 预测模型权重路径
